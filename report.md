@@ -1,5 +1,5 @@
-#Отчёт о тестировании "Money Transfer"
-##Краткое описание
+# Отчёт о тестировании "Money Transfer"
+## Краткое описание
 16.08.2021 - 16.08.2021 было проведено модульное тестирование (unit testing) приложения "Money Transfer".
 
 На тестирование затрачено: 2 часа
@@ -23,7 +23,7 @@ System.out.println(total);
 **Ожидаемый результат:** 
 
 ```"C:\Program Files\Eclipse Foundation\jdk-11.0.12.7-hotspot\bin\java.exe" -javaagent:C:\Users\anisimova.om\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\212.4746.92\lib\idea_rt.jar=50905:C:\Users\anisimova.om\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\212.4746.92\bin -Dfile.encoding=UTF-8 -classpath "D:\Money Transfer\out\production\Money Transfer" Main
--2500000000
+2500000000
 
 Process finished with exit code 0
 ```
